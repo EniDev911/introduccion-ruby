@@ -18,4 +18,4 @@ flowchart TB
 	paso6 --> |No| paso8{"numero > aleatorio"}
 	paso8 --> |Si| paso9["Mostramos por pantalla\n'El número es menor sigue intentando!'\n\n"]
 	paso9 --> solicitar
-	```
+```
