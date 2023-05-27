@@ -1,1 +1,1 @@
-# introduccion-ruby
+## Script calcular_salario.rb
